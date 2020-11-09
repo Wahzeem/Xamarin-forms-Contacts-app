@@ -1,0 +1,17 @@
+/Users/williamsingh/Projects/Contacts/Contacts/bin/Debug/netstandard2.0/Contacts.deps.json
+/Users/williamsingh/Projects/Contacts/Contacts/bin/Debug/netstandard2.0/Contacts.dll
+/Users/williamsingh/Projects/Contacts/Contacts/bin/Debug/netstandard2.0/ref/Contacts.dll
+/Users/williamsingh/Projects/Contacts/Contacts/bin/Debug/netstandard2.0/Contacts.pdb
+/Users/williamsingh/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.csprojAssemblyReference.cache
+/Users/williamsingh/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/williamsingh/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/williamsingh/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.AssemblyInfoInputs.cache
+/Users/williamsingh/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.AssemblyInfo.cs
+/Users/williamsingh/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.csproj.CoreCompileInputs.cache
+/Users/williamsingh/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/williamsingh/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.dll
+/Users/williamsingh/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/ref/Contacts.dll
+/Users/williamsingh/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.pdb
+/Users/williamsingh/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/ContactsPage.xaml.g.cs
+/Users/williamsingh/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/ContactView.xaml.g.cs
+/Users/williamsingh/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/EditContact.xaml.g.cs

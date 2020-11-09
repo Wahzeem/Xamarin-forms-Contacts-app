@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Contacts"
+             x:Class="Contacts.ContactView">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center">
+
+            <Frame CornerRadius="100" 
+                   HeightRequest="200"
+                   WidthRequest="200"
+                   Padding="0"
+                   Margin="0"
+                   HorizontalOptions="Center"
+                   IsClippedToBounds="True">
+
+            <ImageButton x:Name="ResultImage"
+                   WidthRequest="400"
+                   HeightRequest="400"
+                   BackgroundColor="White"
+                   Clicked="PickImage_Clicked"/>
+
+                </Frame>
+
+            <Label x:Name="MyFirstName"
+                   FontSize="Large"
+                   TextColor="Black"
+                   HorizontalTextAlignment="Center"
+                   Padding="0, 30, 0, 20"
+                   FontFamily="BarlowReg"/>
+            
+
+            <Label x:Name="MyNumber"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   FontSize="25"
+                   HorizontalTextAlignment="Center"/>
+
+            <Label x:Name="MyEmail"
+                   FontSize="Medium"
+                   TextColor="Black"
+                   HorizontalTextAlignment="Center"
+                   FontFamily="BarlowLight"/>
+
+            <Label x:Name="MyAddress"
+                   FontSize="Medium"
+                   TextColor="Black"
+                   HorizontalTextAlignment="Center"
+                   FontFamily="BarlowLight"/>
+
+
+            <StackLayout Orientation="Horizontal"
+                         Padding="0,40,0,0">
+
+
+            <ImageButton Source="{local:ImageResource Contacts.Images.EditButton.png}"
+                         WidthRequest="30"
+                         HeightRequest="30"
+                         BackgroundColor="White"
+                         HorizontalOptions="CenterAndExpand"
+                         Clicked="OnEdit"/>
+
+            <ImageButton Source="{local:ImageResource Contacts.Images.DeleteButton.png}"
+                         WidthRequest="30"
+                         HeightRequest="30"
+                         BackgroundColor="White"
+                         HorizontalOptions="CenterAndExpand"
+                         Clicked="OnDelete"/>
+
+            </StackLayout>
+
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>
