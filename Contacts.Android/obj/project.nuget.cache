@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zeRjcS4xjBxsz1nPeglLeM+Qoihysxc0t3nNfSz8s9vbwsSIJXWQjbNdS4KG/vcF38LbgfycD3FuTdL0sUxYpQ==",
+  "dgSpecHash": "tEajOqEppHBO7kuZbhv2aiggPJrXQ+brXM70u8V68ID/bshSCDsnbEGwDLOcTm0VA/6SwNA85HjGKhAVNa9Vqw==",
   "success": true,
-  "projectFilePath": "/Users/williamsingh/Projects/Contacts/Contacts.Android/Contacts.Android.csproj",
+  "projectFilePath": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts.Android/Contacts.Android.csproj",
   "expectedPackageFiles": [
     "/Users/williamsingh/.nuget/packages/refractored.mvvmhelpers/1.6.2/refractored.mvvmhelpers.1.6.2.nupkg.sha512",
     "/Users/williamsingh/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",

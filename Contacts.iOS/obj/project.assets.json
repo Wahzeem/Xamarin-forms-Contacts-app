@@ -1698,11 +1698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/williamsingh/Projects/Contacts/Contacts.iOS/Contacts.iOS.csproj",
+      "projectUniqueName": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts.iOS/Contacts.iOS.csproj",
       "projectName": "Contacts.iOS",
-      "projectPath": "/Users/williamsingh/Projects/Contacts/Contacts.iOS/Contacts.iOS.csproj",
+      "projectPath": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts.iOS/Contacts.iOS.csproj",
       "packagesPath": "/Users/williamsingh/.nuget/packages/",
-      "outputPath": "/Users/williamsingh/Projects/Contacts/Contacts.iOS/obj/",
+      "outputPath": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1717,8 +1717,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/williamsingh/Projects/Contacts/Contacts/Contacts.csproj": {
-              "projectPath": "/Users/williamsingh/Projects/Contacts/Contacts/Contacts.csproj"
+            "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts/Contacts.csproj": {
+              "projectPath": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts/Contacts.csproj"
             }
           }
         }

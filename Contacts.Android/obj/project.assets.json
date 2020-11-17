@@ -2321,11 +2321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/williamsingh/Projects/Contacts/Contacts.Android/Contacts.Android.csproj",
+      "projectUniqueName": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts.Android/Contacts.Android.csproj",
       "projectName": "Contacts.Android",
-      "projectPath": "/Users/williamsingh/Projects/Contacts/Contacts.Android/Contacts.Android.csproj",
+      "projectPath": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts.Android/Contacts.Android.csproj",
       "packagesPath": "/Users/williamsingh/.nuget/packages/",
-      "outputPath": "/Users/williamsingh/Projects/Contacts/Contacts.Android/obj/",
+      "outputPath": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2340,8 +2340,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/williamsingh/Projects/Contacts/Contacts/Contacts.csproj": {
-              "projectPath": "/Users/williamsingh/Projects/Contacts/Contacts/Contacts.csproj"
+            "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts/Contacts.csproj": {
+              "projectPath": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts/Contacts.csproj"
             }
           }
         }

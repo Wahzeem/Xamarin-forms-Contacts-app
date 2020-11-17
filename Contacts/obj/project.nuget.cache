@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MVeTwScRLO1lUOIFyO154blJ6Fa2arDHbbizo4XDrsabN75HCxnJA5kmuf+D0szvsQ6COhKPrVhiZHSRgVJBMw==",
+  "dgSpecHash": "6k4I+Y0eEFZNPh2m5krKiZlxoj++n7+XMiWLBKcaaLRKjORcX3Zd20c19REFEvCg2Rz0soGoIMcf8VX0bA7mpA==",
   "success": true,
-  "projectFilePath": "/Users/williamsingh/Projects/Contacts/Contacts/Contacts.csproj",
+  "projectFilePath": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts/Contacts.csproj",
   "expectedPackageFiles": [
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
@@ -14,7 +14,7 @@
     "/Users/williamsingh/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.3/sqlitepclraw.provider.e_sqlite3.2.0.3.nupkg.sha512",
     "/Users/williamsingh/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
     "/Users/williamsingh/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/williamsingh/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/williamsingh/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "/Users/williamsingh/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
     "/Users/williamsingh/.nuget/packages/xamarin.essentials/1.6.0-pre2/xamarin.essentials.1.6.0-pre2.nupkg.sha512",

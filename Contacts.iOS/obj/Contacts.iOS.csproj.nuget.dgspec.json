@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/williamsingh/Projects/Contacts/Contacts.iOS/Contacts.iOS.csproj": {}
+    "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts.iOS/Contacts.iOS.csproj": {}
   },
   "projects": {
-    "/Users/williamsingh/Projects/Contacts/Contacts.iOS/Contacts.iOS.csproj": {
+    "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts.iOS/Contacts.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/williamsingh/Projects/Contacts/Contacts.iOS/Contacts.iOS.csproj",
+        "projectUniqueName": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts.iOS/Contacts.iOS.csproj",
         "projectName": "Contacts.iOS",
-        "projectPath": "/Users/williamsingh/Projects/Contacts/Contacts.iOS/Contacts.iOS.csproj",
+        "projectPath": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts.iOS/Contacts.iOS.csproj",
         "packagesPath": "/Users/williamsingh/.nuget/packages/",
-        "outputPath": "/Users/williamsingh/Projects/Contacts/Contacts.iOS/obj/",
+        "outputPath": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/williamsingh/Projects/Contacts/Contacts/Contacts.csproj": {
-                "projectPath": "/Users/williamsingh/Projects/Contacts/Contacts/Contacts.csproj"
+              "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts/Contacts.csproj": {
+                "projectPath": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts/Contacts.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "/Users/williamsingh/Projects/Contacts/Contacts/Contacts.csproj": {
+    "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts/Contacts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/williamsingh/Projects/Contacts/Contacts/Contacts.csproj",
+        "projectUniqueName": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts/Contacts.csproj",
         "projectName": "Contacts",
-        "projectPath": "/Users/williamsingh/Projects/Contacts/Contacts/Contacts.csproj",
+        "projectPath": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts/Contacts.csproj",
         "packagesPath": "/Users/williamsingh/.nuget/packages/",
-        "outputPath": "/Users/williamsingh/Projects/Contacts/Contacts/obj/",
+        "outputPath": "/Users/williamsingh/Documents/GitHub/Xamarin-forms-Contacts-app/Contacts/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -90,6 +90,7 @@
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -101,6 +102,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -135,7 +137,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
